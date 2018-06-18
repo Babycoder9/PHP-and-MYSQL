@@ -1,0 +1,83 @@
+*{
+    font-family: 'Inconsolata', monospace;
+}
+
+ h2 {
+    text-align: center;
+    
+}
+
+#jazz {
+    max-width: 960px;
+    margin: 0 auto;
+}
+#pic {
+    width:100%;
+}
+#commentbox{
+ width:100%;
+background: #aaa;
+
+
+}
+
+#message{
+    width:100%;
+}
+
+.navbar-brand{
+    font-family: 'Inconsolata', monospace;
+    color:blue;
+    
+}
+
+.takens{
+    display:inline-block;
+    clear:both;
+    width: 40%;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius:20px;
+    margin: 0;
+    background:white;
+    align-content: center
+    
+
+}
+
+.comments{
+    clear:both;
+    float: right;
+/*    display: inline-block;*/
+    width: 60%;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 0;
+    border-radius: 20px;
+    
+    
+}
+
+#name {
+    font-size: 22px;
+}
+
+#time {
+    font-size: 11px;
+}
+
+#messages {
+    width: 320px;
+    padding: 10px;
+/*    border: 5px solid #3834da;*/
+    border-radius:20px;
+    margin: 0;
+    background-color: #299efe;
+    color:white;
+    width:100%;
+    
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: #76E1E4;
+}
